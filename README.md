@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ConcreteFunctors
-- 👀 I’m interested in Mathematica, Matlab and C++
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Scientific Programming
+- 👀 I’m interested in Python, Julia, Mathematica, Matlab and C++
+- 🌱 I’m currently learning Python, Julia and Mathematica
+- 💞️ I’m looking to collaborate on Scientific Programming and Machine Learning
 - 📫 How to reach me ...
 
 <!---
